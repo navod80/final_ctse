@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338466034783",
+    "firebase_url": "https://ctse-friend-locator-db.firebaseio.com",
+    "project_id": "ctse-friend-locator-db",
+    "storage_bucket": "ctse-friend-locator-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338466034783:android:2fbdf21c413be8a74eb7ea",
+        "android_client_info": {
+          "package_name": "lk.sliit.flutterapp.friendlocatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338466034783-5s2sbq1cl0gq5j1tipt9djumv4e0qeru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpigvof6KzEl3s9QSft7MFy4DvpQMFtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338466034783-5s2sbq1cl0gq5j1tipt9djumv4e0qeru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
